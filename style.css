@@ -1,7 +1,11 @@
 Body{
     background-color: #3b214d; color: #ad7918;
 }
+a{
+    color: #b5925b;
+}
 p{
+    color: #CFA40F;
     /*border: 1px solid;
     width: 250px;*/
     font-family: "Ink Free" ;
@@ -10,15 +14,19 @@ p{
     color: #3b214d ;
 }
 h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
     border-style: solid;
     border-style: groove;
     border-color: #665233;
     text-align: center;
 }
-img{;
+img{
     float: left;
     margin: 10px;
-;
+    margin-right: 20px;	
+
 }
 .title{
     font-family: "MV Boli";
