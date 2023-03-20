@@ -1,0 +1,26 @@
+html{
+    background-color: #e3c076
+}
+h1{
+    text-align: center
+}
+p{
+    text-align: center
+}
+#titleBox{
+    width: auto;
+    background-color: beige;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+    
+}
+#mainBox{
+    background-color: #59912a;
+    mix-blend-mode: multiply;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
