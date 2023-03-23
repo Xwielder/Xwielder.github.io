@@ -4,13 +4,12 @@ html{
 h1{
     text-align: center;
 }
-p{
-    text-align: center;
-}
+
 h2{
-    margin-left: 10px;
-    margin-top: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
     margin-bottom: 2px;
+    font-size: 50px;
 }
 
 #titleBox{
@@ -37,15 +36,21 @@ h2{
 #week3{
     display:flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    font-size: 30px;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
     justify-content: center;
-    justify-content: flex-end
-    width: 600px;
+    width: 70%;
     border: 1px solid;
+    margin-bottom: 30px;
     
 }
 table{
-    margin-left: 5px;
-margin-top: 7px;
-margin-bottom: 8px;
+    border-color: black;
+    background-color: black
+    ;
+}
+tr{
+    background-color: turquoise;
 }
